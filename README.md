@@ -1,3 +1,3 @@
-# simple-todo-app with auth using formik and yup
+# simple-todo-app with auth and register using formik and yup
 
 todo app inspired by kubowania
