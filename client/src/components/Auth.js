@@ -18,7 +18,6 @@ const Auth = () => {
         passwordValue,
       };
 
-      console.log(userData);
       const endpoint = isLogIn ? "login" : "signup";
 
       const response = await fetch(
