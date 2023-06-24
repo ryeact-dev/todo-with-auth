@@ -3,4 +3,4 @@
 todo app inspired by kubowania
 
 # Deployed on vercel:
-https://todo-with-auth-client.vercel.app/
+# https://todo-with-auth-client.vercel.app/
