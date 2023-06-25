@@ -6,7 +6,7 @@ const pool = require("./db");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 
-app.use(cors());
+app.use(cors({ origin: 'https://todo-with-auth-server.vercel.app' }));
 app.use(express.json());
 
 // get all todos
